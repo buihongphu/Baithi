@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baithi</string>
+    <string name="txtA" />
+
+    <string name="btnTinh">Tính</string>
+
+    <string name="etxA" />
+    <string name="etxB" />
+    <string name="edtKetqua" />
+    <string name="txtKetqua">Kết quả =</string>
+</resources>
